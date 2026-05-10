@@ -1,0 +1,6 @@
+---
+pid: 11228
+cwd: |
+  C:\Users\DELL
+---
+PS C:\Users\DELL>
